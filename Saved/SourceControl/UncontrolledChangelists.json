@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JN/W1O20GC99ERJ7C8O38U5F4.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WO/W0PQR0Q0V7HSXGUK58XGE6.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4W/0WZIN5P7OWMCN8X1ZBDQ1E.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/CS/LZBI9QI8QLB4NN5XR4WUZC.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/GM_Targetgame.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/UBP_UI.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/33/3VB9Z0DENGPQRKGXKMNNZ7.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/Target/SM_Target_SM_Target/GC_BP_Target5.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/M5/LKJHH0EWBH1KLLH35KNEOG.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZI/R33DV0JPMFJ33R9Z8UNH9H.uasset",
+				"C:/Users/samgo/Personal/code/Unreal Engine/School Project/Content/Target/SM_Target_SM_Target/GC_SM_Target.uasset"
+			]
+		}
+	]
+}
